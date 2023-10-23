@@ -1,0 +1,9 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+/*Esto es Pseudoclase empieza con : y Pseudoelemento empieza con ::*/
+*,*:before, *:after{
+    box-sizing: inherit;
+}
+
