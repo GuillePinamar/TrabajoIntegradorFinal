@@ -1,0 +1,1 @@
+SELECT * FROM `proyectofinal-fullstack`.libros;
